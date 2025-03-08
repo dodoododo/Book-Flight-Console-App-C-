@@ -1,0 +1,5 @@
+admin1 123; 1
+admin2 123; 1
+user1 321; 0| VN100C1
+user2; 321; 0| VN100A1
+user3; 321; 0| VN105C3| VN100A5
