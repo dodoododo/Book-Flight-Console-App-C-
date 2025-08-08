@@ -58,21 +58,6 @@ Manage passengers and tickets
 
 Sync changes across system
 
-## 📂 Project Structure
-/FlightBookingSystem
-│
-├── main.cpp                   # Entry point
-├── account.h / account.cpp    # Account management
-├── flight.h / flight.cpp      # Flight management
-├── passenger.h / passenger.cpp# Passenger data handling
-├── seatmap.h / seatmap.cpp    # Seat map logic
-├── data/                      # .txt data files
-
-
-## Demo User Interface 
-
-
-
 ## ✅ Achievements
 Successfully implemented core flight booking functionalities
 
